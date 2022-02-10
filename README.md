@@ -34,6 +34,10 @@ A 180nm P-mos and 180nm N-Mos is modeled respectively.
 
 ![Modeling](https://user-images.githubusercontent.com/69715923/153441144-4cd85740-be08-434f-b1df-cdf6e95eaaf5.png)
 
+The Cir.out file
+
+![Cir_out](https://user-images.githubusercontent.com/69715923/153445343-7974da6a-5636-4246-a47e-1b90fec3f326.png)
+
 ## Waveforms
 
 The following waveforms are generated for S,R,clk and Q.
@@ -48,6 +52,9 @@ https://www.tutorialspoint.com/vlsi_design/vlsi_design_sequential_mos_logic_circ
 
 https://esim.fossee.in
 
+ # Acknowledgement
+
+Kunal Ghosh, Co-founder of VLSI system Design (VSD) Corp. Pvt. Ltd
 
 ## Author
 Naveen Nataraj
