@@ -1,4 +1,4 @@
-# SR_flipflop_CMOS
+# Design of SR Flip-Flop using CMOS
 
 ## Abstract
 CMOS is the most basic unit of a gate, which is composed of an N-mos and P-mos. In VLSI field, the CMOS is most commonly used for building the logic gates.
